@@ -12,4 +12,4 @@ To compile and run the project, execute these commands in your terminal:
 
 ```bash
 make
-./bank_system
+./bank

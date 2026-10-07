@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Iinclude
 SRC = src/main.c src/ui.c src/services.c src/database.c src/utils.c
-TARGET = program
+TARGET = bank
 
 all:
 	$(CC) $(CFLAGS) $(SRC) -o $(TARGET)
