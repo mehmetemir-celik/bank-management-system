@@ -12,4 +12,10 @@ To compile and run the project, execute these commands in your terminal:
 
 ```bash
 make
+```
+
+Then, to run:
+
+```bash
 ./bank
+```
