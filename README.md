@@ -4,7 +4,8 @@ A simple console-based bank management application written in C.
 
 ## Features
 - Create customer accounts
-- Check balance, deposit, withdraw money and view transaction history
+- Deposit, withdraw and transfer money
+- View transaction history
 - Save and load account data from files
 
 ## How to Run
